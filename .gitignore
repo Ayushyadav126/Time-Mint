@@ -1,0 +1,13 @@
+node_modules/
+dist/
+
+# Native platform folders
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+ios/
+
+.DS_Store
+.vscode/
+*.log
