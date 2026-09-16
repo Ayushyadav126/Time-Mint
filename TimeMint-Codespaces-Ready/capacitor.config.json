@@ -1,0 +1,9 @@
+{
+  "appId": "com.timemint.app",
+  "appName": "Time Mint",
+  "webDir": "dist",
+  "backgroundColor": "#FFFFFF",
+  "android": {
+    "allowMixedContent": true
+  }
+}
